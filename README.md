@@ -28,7 +28,7 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```text
-Program to print the DatabaseTable using the firebasedatabase”.
+
 Developed by: GuruRagav Ponjeevith V
 Registeration Number: 212223220027
 ```
